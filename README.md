@@ -8,7 +8,7 @@ A classic Snake game implemented in Python using the built-in `turtle` graphics 
 - Score tracking and display
 
 ## Technologies Used
-- Python 3.x
+- Python
 - `turtle` (standard library module)
 
 ## Getting Started
