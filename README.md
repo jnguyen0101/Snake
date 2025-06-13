@@ -15,7 +15,7 @@ A classic Snake game implemented in Python using the built-in `turtle` graphics 
 
 ### Prerequisites
 
-Make sure you have Python 3 installed:
+Make sure you have Python installed:
 
 ```bash
 python --version
